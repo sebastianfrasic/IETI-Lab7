@@ -1,0 +1,22 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "IETI lab 7",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianfrasic/IETI-Lab7.git"
+  },
+  "author": "jfrasica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianfrasic/IETI-Lab7/issues"
+  },
+  "homepage": "https://github.com/sebastianfrasic/IETI-Lab7#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
