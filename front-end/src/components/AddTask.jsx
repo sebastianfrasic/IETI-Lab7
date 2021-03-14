@@ -42,9 +42,8 @@ export const AddTask = (props) => {
         setStartDate(e);
     }
 
-    let [task, setTask] = useState([]);
 
-    task = {
+    let task = {
         description: descriptionState,
         responsible: {
             name: responsibleState,
